@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="webProjeModelStoreContainer" CdmEntityContainer="webProjeEntities">
+    <EntitySetMapping Name="Sliders">
+      <EntityTypeMapping TypeName="webProjeModel.Slider">
+        <MappingFragment StoreEntitySet="Slider">
+          <ScalarProperty Name="sliderID" ColumnName="sliderID" />
+          <ScalarProperty Name="baaslikENG" ColumnName="baaslikENG" />
+          <ScalarProperty Name="aciklamaTR" ColumnName="aciklamaTR" />
+          <ScalarProperty Name="aciklamaENG" ColumnName="aciklamaENG" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="resim" ColumnName="resim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
