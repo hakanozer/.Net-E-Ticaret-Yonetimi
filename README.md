@@ -30,7 +30,7 @@ Bu proje ASP.NET ile geliştirilmiş olup bir firmanın ihtiyacı olan internet 
   
     <tr>
   
-  <th class="tg-yw4l"><a href="https://raw.githubusercontent.com/hakanozer/.Net-E-Ticaret-Y-netimi/ff86563e74e0ca0d8fc1e89183952c8f625ed8cd/WebProje/Proje%20Goruntuleri/9.png" target="_blank"><img src="https://raw.githubusercontent.com/hakanozer/.Net-E-Ticaret-Y-netimi/ff86563e74e0ca0d8fc1e89183952c8f625ed8cd/WebProje/Proje%20Goruntuleri/.9png" width=125/></a></th>
+  <th class="tg-yw4l"><a href="https://raw.githubusercontent.com/hakanozer/.Net-E-Ticaret-Y-netimi/ff86563e74e0ca0d8fc1e89183952c8f625ed8cd/WebProje/Proje%20Goruntuleri/9.png" target="_blank"><img src="https://raw.githubusercontent.com/hakanozer/.Net-E-Ticaret-Y-netimi/ff86563e74e0ca0d8fc1e89183952c8f625ed8cd/WebProje/Proje%20Goruntuleri/9.png" width=125/></a></th>
   
     <th class="tg-yw4l"><a href="https://raw.githubusercontent.com/hakanozer/.Net-E-Ticaret-Y-netimi/ff86563e74e0ca0d8fc1e89183952c8f625ed8cd/WebProje/Proje%20Goruntuleri/10.png" target="_blank"><img src="https://raw.githubusercontent.com/hakanozer/.Net-E-Ticaret-Y-netimi/ff86563e74e0ca0d8fc1e89183952c8f625ed8cd/WebProje/Proje%20Goruntuleri/10.png" width=125/></a></th>
    
